@@ -1,0 +1,2 @@
+The information in this skill is provided from New York Times API https://developer.nytimes.com/apis . This skill is not used for any commercial purpose and used only for information of the users
+All right reserved with the user for the code and design of the Skill
